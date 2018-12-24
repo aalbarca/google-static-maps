@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "netflie/static-map-system": "^0.2.0",
+        "netflie/static-map-system": "^0.3.0",
         "php": "^7.0"
     },
     "require-dev": {
