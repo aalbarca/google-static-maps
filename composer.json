@@ -10,6 +10,7 @@
     ],
     "require": {
         "netflie/static-map-system": "^0.3.0",
+        "sparkscoding/static-maps": "^1.1.0-beta",
         "php": "^7.0"
     },
     "require-dev": {
